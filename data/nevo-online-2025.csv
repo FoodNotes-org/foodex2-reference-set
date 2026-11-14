@@ -1,0 +1,31 @@
+source,source_food_id,description,published_code,proposed_code,free_text,country,language,mtx_release,coded_by,status,reviewed_by,notes
+"NEVO online, version 2025/9.0, RIVM, Bilthoven",3199,Ansjovis rauw,A02DD,,,NL,nl,17.1,,confirmed,Jorn Mineur,
+"NEVO online, version 2025/9.0, RIVM, Bilthoven",5518,Couscous volkoren rauw,A008C#F28.A07HS,A008C#F10.A06HR,,NL,nl,17.1,Jorn Mineur,draft,,"The name says volkoren (wholemeal), recorded as Integral /not refined. Raw, no heat treatment is left out: couscous is steamed in production, so rauw here means uncooked."
+"NEVO online, version 2025/9.0, RIVM, Bilthoven",2773,Ei kippen- mais rauw,A031G#F28.A07HS,A031G#F21.A18YP,production=Maize-fed hens,NL,nl,17.1,Jorn Mineur,draft,,"Hen eggs is a raw commodity, so Raw, no heat treatment repeats the base term. Maize feeding is recorded as Other production method, and the free text names it."
+"NEVO online, version 2025/9.0, RIVM, Bilthoven",1679,Frites oven- diepvries bereid in oven,A0BYV#F28.A07GX$F28.A07KQ,A011N#F28.A07GY$F28.A07KQ,,NL,nl,17.1,Jorn Mineur,draft,,"Cooking potato pieces in an oven is Roasting in the catalogue, not Baking. The name does not say the fries are cut from whole potatoes, so the base is Fries (finger chips)."
+"NEVO online, version 2025/9.0, RIVM, Bilthoven",819,Kabeljauw gekookt,A02BV#F26.A07XD$F28.A07GL,A02BX#F26.A07XD$F28.A07GL,,NL,nl,17.1,Jorn Mineur,draft,,"In the Netherlands the bare name kabeljauw is reserved for Gadus morhua; Pacific and Greenland cod must be sold as Pacifische and Groenlandse kabeljauw (Warenwetregeling handelsbenamingen vis, 5.1). So kabeljauw is Cod, atlantic, not Cod."
+"NEVO online, version 2025/9.0, RIVM, Bilthoven",3001,Kalkoenfilet (vleeswaar),A023T,A023T#F20.A07QM,,NL,nl,17.1,Jorn Mineur,draft,,"A filet is a boneless cut, recorded as W/o bone."
+"NEVO online, version 2025/9.0, RIVM, Bilthoven",167,Kersen zure,A01GH,,,NL,nl,17.1,,confirmed,Jorn Mineur,
+"NEVO online, version 2025/9.0, RIVM, Bilthoven",1215,Ketjap zoet,A044R,A044R#F10.A0CQM,,NL,nl,17.1,Jorn Mineur,draft,,Zoet (sweet) is recorded as Sweet / mild.
+"NEVO online, version 2025/9.0, RIVM, Bilthoven",2654,Kipfilet (vleeswaar),A023X#F27.A01SP,A023X#F20.A07QM$F27.A01SP,,NL,nl,17.1,Jorn Mineur,draft,,"A filet is a boneless cut, recorded as W/o bone."
+"NEVO online, version 2025/9.0, RIVM, Bilthoven",2134,Limonade vruchten- Dubbelfrisss,A03EV,A03EA,brand=Dubbelfrisss,NL,nl,17.1,Jorn Mineur,draft,,"The Dubbelfrisss label lists fruit juice from concentrate, not fruit. Fruit soft drink, mixed fruit is scoped as a soft drink with minor amounts of mixed fruit; Soft drink, with fruit juice is the term for a soft drink made with juice."
+"NEVO online, version 2025/9.0, RIVM, Bilthoven",5584,Meel rijst- volkoren,A003F#F10.A06HR,,,NL,nl,17.1,,confirmed,Jorn Mineur,
+"NEVO online, version 2025/9.0, RIVM, Bilthoven",2240,Melk geiten- volle,A02MB#F10.A077A,,,NL,nl,17.1,,confirmed,Jorn Mineur,
+"NEVO online, version 2025/9.0, RIVM, Bilthoven",3341,Meloen cantaloupe,A00KF,,,NL,nl,17.1,,confirmed,Jorn Mineur,
+"NEVO online, version 2025/9.0, RIVM, Bilthoven",31,Paprika groene rauw,A00JA,A00JA#F01.A05CP,,NL,nl,17.1,Jorn Mineur,draft,,"Groene (green) is recorded with the source Pepper, green (as plant)."
+"NEVO online, version 2025/9.0, RIVM, Bilthoven",335,Pastei lever-,A026R,A026M,,NL,nl,17.1,Jorn Mineur,draft,,"The name says liver pâté and names no animal. Pate, pork liver implies pig liver; Liver based spreadable-textured specialities implies only animal liver."
+"NEVO online, version 2025/9.0, RIVM, Bilthoven",338,Pekelvlees,A0B9G,,,NL,nl,17.1,,confirmed,Jorn Mineur,
+"NEVO online, version 2025/9.0, RIVM, Bilthoven",187,Peren gedroogd,A01MH,,,NL,nl,17.1,,confirmed,Jorn Mineur,
+"NEVO online, version 2025/9.0, RIVM, Bilthoven",681,Poeng rauw,A00KL,,,NL,nl,17.1,,confirmed,Jorn Mineur,
+"NEVO online, version 2025/9.0, RIVM, Bilthoven",40,Rabarber rauw,A00SD,,,NL,nl,17.1,,confirmed,Jorn Mineur,
+"NEVO online, version 2025/9.0, RIVM, Bilthoven",2276,Room kook- light,A02ML#F07.A071P,A02MM#F10.A0CRG$F24.A07VS,,NL,nl,17.1,Jorn Mineur,draft,,"Kookroom is cream made for heating, usually with a starch or stabiliser added, so the base is Cream with other ingredients. Cream, plain carries a legal class that excludes reduced-fat cream, and this cream is light. Light and Intended to be eaten cooked record what the name states. The 7.2 % fat is a measured value the name does not state."
+"NEVO online, version 2025/9.0, RIVM, Bilthoven",1416,Rundertong rauw,A020S,,,NL,nl,17.1,,confirmed,Jorn Mineur,
+"NEVO online, version 2025/9.0, RIVM, Bilthoven",5471,Saus wok- teriyaki,A044T,,,NL,nl,17.1,,confirmed,Jorn Mineur,
+"NEVO online, version 2025/9.0, RIVM, Bilthoven",55,Spruitjes gekookt,A00FV#F28.A07GL,,,NL,nl,17.1,,confirmed,Jorn Mineur,
+"NEVO online, version 2025/9.0, RIVM, Bilthoven",3252,Surimi,A02KE,,,NL,nl,17.1,,confirmed,Jorn Mineur,
+"NEVO online, version 2025/9.0, RIVM, Bilthoven",2737,Ui sla- rauw,A00HH,,,NL,nl,17.1,,confirmed,Jorn Mineur,
+"NEVO online, version 2025/9.0, RIVM, Bilthoven",1423,Varkenshamschijf rauw,A01RG,A01RG#F24.A07VV$F26.A07XE,,NL,nl,17.1,Jorn Mineur,draft,,"Rauw for pork means raw but meant to be cooked, recorded as Raw but intended to be eaten cooked. Other marks that this cut has no term of its own under Pig fresh meat."
+"NEVO online, version 2025/9.0, RIVM, Bilthoven",1788,Varkensribkarbonade rauw,A01RG,A01RG#F24.A07VV$F26.A07XE,,NL,nl,17.1,Jorn Mineur,draft,,"Rauw for pork means raw but meant to be cooked, recorded as Raw but intended to be eaten cooked. Other marks that this cut has no term of its own under Pig fresh meat."
+"NEVO online, version 2025/9.0, RIVM, Bilthoven",1790,Varkensschnitzel ongepaneerd rauw,A01RG,A01RG#F24.A07VV$F26.A07XE,,NL,nl,17.1,Jorn Mineur,draft,,"Rauw for pork means raw but meant to be cooked, recorded as Raw but intended to be eaten cooked. Other marks that this cut has no term of its own under Pig fresh meat."
+"NEVO online, version 2025/9.0, RIVM, Bilthoven",1898,Zeewier agar agar gedroogd,A00ZQ#F26.A07XE$F27.A00VE,A047Y#F04.A00VE,,NL,nl,17.1,Jorn Mineur,draft,,"Agar agar is a gelling agent extracted from red algae, not a dried vegetable, so the base is Gelling agent with Red algae as the ingredient."
+"NEVO online, version 2025/9.0, RIVM, Bilthoven",590,Zemelen tarwe-,A004P,,,NL,nl,17.1,,confirmed,Jorn Mineur,

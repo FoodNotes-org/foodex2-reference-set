@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: >-
+  If you use this dataset, please cite it as below. Licence is mixed: see
+  LICENSE.md. The columns this project adds are CC BY 4.0; the source columns
+  (descriptions and published codes) remain under each source's licence.
+type: dataset
+title: "FoodEx2 reference set"
+version: 0.1.0
+date-released: 2026-11-14
+abstract: >-
+  Open reference set of food descriptions from published food datasets, with
+  reviewed FoodEx2 codes, for benchmarking and testing automatic FoodEx2
+  coding. The columns this project adds (codes, reviews, notes) are CC BY
+  4.0; food descriptions and the codes sources published remain under each
+  source's licence as recorded in LICENSE.md.
+authors:
+  - given-names: Jorn
+    family-names: Mineur
+    affiliation: "FoodNotes (e-accent BV)"
+repository-code: "https://github.com/FoodNotes-org/foodex2-reference-set"
+keywords:
+  - FoodEx2
+  - EFSA
+  - food classification
+  - food composition
+  - benchmark

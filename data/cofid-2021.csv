@@ -1,0 +1,31 @@
+source,source_food_id,description,published_code,proposed_code,free_text,country,language,mtx_release,coded_by,status,reviewed_by,notes
+"Public Health England, CoFID 2021",16-169,"Bacha, raw",,A027J#F01.A080C$F26.A07XE$F28.A07HS,,GB,en,17.1,Jorn Mineur,draft,,
+"Public Health England, CoFID 2021",19-537,"Bacon, fat only, average, cooked",,A022X#F28.A0BA1,part-consumed-analysed=Fat portion only; qualitative-info=Average,GB,en,17.1,Jorn Mineur,draft,,
+"Public Health England, CoFID 2021",17-705,Barbecue sauce,,A045B,,GB,en,17.1,Jorn Mineur,draft,,
+"Public Health England, CoFID 2021",13-559,"Beans, butter, canned, re-heated, drained",,A01AZ#F20.A0F2X$F26.A07XE$F27.A013A$F28.A07HD,,GB,en,17.1,Jorn Mineur,draft,,
+"Public Health England, CoFID 2021",19-530,"Beef, stir-fried with green peppers, homemade",,A03VV#F04.A00JA$F04.A01QX$F22.A07SS$F26.A07XE$F28.A07GT,,GB,en,17.1,Jorn Mineur,draft,,
+"Public Health England, CoFID 2021",13-057,"Black gram, urad gram, whole, dried, boiled in unsalted water",,A013C#F10.A0CQE$F28.A07GL,qualitative-info=Whole,GB,en,17.1,Jorn Mineur,draft,,"TODO: try to find facet descriptor for ""whole"""
+"Public Health England, CoFID 2021",13-637,"Celery, boiled in unsalted water",,A00RY#F10.A0CQE$F28.A07GL,,GB,en,17.1,Jorn Mineur,draft,,
+"Public Health England, CoFID 2021",18-326,"Chicken, breast, strips, stir-fried in corn oil",,A01SP#F28.A07GT$F28.A07KX,part-consumed-analysed=Breast; ingredient=Maize oil,GB,en,17.1,Jorn Mineur,draft,,TODO: look into corn oil and part-consumed-analysed
+"Public Health England, CoFID 2021",16-430,"Coley, flesh only, grilled",,A02CF#F20.A07QM$F20.A07QR$F28.A07GZ,,GB,en,17.1,Jorn Mineur,draft,,Flesh only states the part eaten: without bone and without skin (F20).
+"Public Health England, CoFID 2021",15-724,"Corn fritters, fried in rapeseed oil, homemade",,A03XX#F04.A008P$F04.A036V$F22.A07SS$F26.A07XE$F28.A07GR,,GB,en,17.1,Jorn Mineur,draft,,TODO: review
+"Public Health England, CoFID 2021",13-232,"Courgette, fried in corn oil",,A00JR#F04.A036Y$F28.A07GR,,GB,en,17.1,Jorn Mineur,draft,,TODO: review
+"Public Health England, CoFID 2021",11-988,Croissants,,A00BM,,GB,en,17.1,Jorn Mineur,draft,,
+"Public Health England, CoFID 2021",15-627,"Curry, bhindi subji, homemade",,A03XX#F04.A00JF$F04.A043A$F22.A07SS$F26.A07XE$F28.A0BA1,,GB,en,17.1,Jorn Mineur,draft,,TODO: review
+"Public Health England, CoFID 2021",18-374,"Duck, roasted, meat, fat and skin",,A01SR#F20.A07QQ$F20.A0F4T$F28.A07GY,,GB,en,17.1,Jorn Mineur,draft,,"Duck fresh meat, not the Meat and meat products heading; it implies the duck source and the meat part-nature. Fat and skin are the part eaten: with skin and including visible fat (F20)."
+"Public Health England, CoFID 2021",14-100,"Gooseberries, cooking, raw",,A0CFN#F24.A07VS$F28.A07HS,,GB,en,17.1,Jorn Mineur,draft,,TODO: review
+"Public Health England, CoFID 2021",13-248,"Gourd, ash, raw",,A00KN#F28.A07HS,,GB,en,17.1,Jorn Mineur,draft,,
+"Public Health England, CoFID 2021",16-095,"Mullet, Grey, flesh only, raw",,A02AD#F28.A07HS,,GB,en,17.1,Jorn Mineur,draft,,"TODO: review. In Europe, the word ""mullet"" is usually qualified, the ""grey mullets"" being Mugilidae and the ""red mullets"" or ""surmullets"" being Mullidae, notably members of the genus Mullus."
+"Public Health England, CoFID 2021",19-058,"Pie, game, homemade",,A0CEN#F04.A0EYH$F22.A07SS$F26.A07XE,,GB,en,17.1,Jorn Mineur,draft,,TODO: review
+"Public Health England, CoFID 2021",18-607,"Pork, mince, stewed",,A04AC#F28.A07GM,,GB,en,17.1,Jorn Mineur,draft,,
+"Public Health England, CoFID 2021",13-485,"Potato chips, fried in commercial oil, from takeaway fish and chip shops",,A0BYV#F04.A039J,,GB,en,17.1,Jorn Mineur,draft,,TODO: review
+"Public Health England, CoFID 2021",13-038,"Potato croquettes, fried in blended oil",,A011S#F04.A039J,,GB,en,17.1,Jorn Mineur,draft,,TODO: review
+"Public Health England, CoFID 2021",14-289,Prune juice,,A03AE,,GB,en,17.1,Jorn Mineur,draft,,
+"Public Health England, CoFID 2021",14-375,"Raspberries, raw",,A01EP#F28.A07HS,,GB,en,17.1,Jorn Mineur,draft,,
+"Public Health England, CoFID 2021",15-867,"Rissoles, vegetable, fried in sunflower oil",,A03XX#F04.A037D$F26.A07XE$F28.A07GR$F28.A07LD,,GB,en,17.1,Jorn Mineur,draft,,TODO: review
+"Public Health England, CoFID 2021",19-319,"Saveloy, unbattered, takeaway",,A025T#F04.A006M$F04.A01RG$F22.A07SK$F26.A07XE,process=Unbattered,GB,en,17.1,Jorn Mineur,draft,,TODO: review
+"Public Health England, CoFID 2021",17-831,"Soup, potato and leek, homemade",,A041P#F04.A00SB$F22.A07SS,,GB,en,17.1,Jorn Mineur,draft,,
+"Public Health England, CoFID 2021",17-828,"Sweets, sherbert",,A0EQQ#F04.A032H$F04.A048B$F04.A048C$F26.A07XE,,GB,en,17.1,Jorn Mineur,draft,,TODO: review
+"Public Health England, CoFID 2021",15-626,"Tinda subji, homemade",,A03XX#F04.A042Z$F22.A07SS$F26.A07XE$F28.A0BA1,,GB,en,17.1,Jorn Mineur,draft,,TODO: review
+"Public Health England, CoFID 2021",17-842,"White sauce, sweet, made with skimmed milk, homemade",,A046F#F04.A003Y$F04.A02MA$F04.A032H$F22.A07SS$F26.A07XE,,GB,en,17.1,Jorn Mineur,draft,,No process facet: the description states none (physico-chemical modification removed).
+"Public Health England, CoFID 2021",12-375,"Yogurt, whole milk, fruit",,A02NH#F04.A0EZN$F27.A02LY,,GB,en,17.1,Jorn Mineur,draft,,
