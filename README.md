@@ -17,7 +17,7 @@ Contributions and feedback are welcome.
 | Source | Country | Foods | Codes published by the source |
 |---|---|---|---|
 | [USDA FoodData Central: Foundation Foods](data/usda-fdc-foundation.csv) | US | 30 | none; all codes are drafts written here |
-| [NEVO online 2025/9.0](data/nevo-online-2025.csv) (RIVM) | NL | 30 | all 30; for 15 this set proposes a different code |
+| [NEVO online 2025/9.0](data/nevo-online-2025.csv) (RIVM) | NL | 60 | all 60; for 23 this set proposes a different code |
 | [CoFID 2021](data/cofid-2021.csv) (Public Health England) | GB | 30 | none; all codes are drafts written here |
 | [FoodEx2 guidance, revision 2](data/efsa-foodex2-guidance-2015.csv) (EFSA, 2015) | — | 17 | all 17; for 6 this set proposes a different code |
 
