@@ -8,7 +8,7 @@ source,source_food_id,description,published_code,proposed_code,free_text,country
 "Public Health England, CoFID 2021",13-637,"Celery, boiled in unsalted water",,A00RY#F10.A0CQE$F28.A1B1L,,GB,en,17.1,Jorn Mineur,draft,,
 "Public Health England, CoFID 2021",18-326,"Chicken, breast, strips, stir-fried in corn oil",,A01SP#F28.A07GT$F28.A07KX,part-consumed-analysed=Breast,GB,en,17.1,Jorn Mineur,draft,,
 "Public Health England, CoFID 2021",16-430,"Coley, flesh only, grilled",,A02CF#F20.A07QM$F20.A07QR$F28.A07GZ,,GB,en,17.1,Jorn Mineur,draft,,
-"Public Health England, CoFID 2021",15-724,"Corn fritters, fried in rapeseed oil, homemade",,A03XX#F04.A00KP$F22.A07SS$F26.A07XE$F28.A07GR,,GB,en,17.1,Jorn Mineur,draft,,
+"Public Health England, CoFID 2021",15-724,"Corn fritters, fried in rapeseed oil, homemade",,A040C#F04.A00KP$F22.A07SS$F26.A07XE$F28.A07GR,,GB,en,17.1,Jorn Mineur,draft,,"Finger food: fritters are eaten with the hands. Sweet corn is the characterising ingredient; frying oil is the process medium, not an ingredient."
 "Public Health England, CoFID 2021",13-232,"Courgette, fried in corn oil",,A00JR#F28.A07GR,,GB,en,17.1,Jorn Mineur,draft,,
 "Public Health England, CoFID 2021",11-988,Croissants,,A00BM,,GB,en,17.1,Jorn Mineur,draft,,
 "Public Health England, CoFID 2021",15-627,"Curry, bhindi sabji, homemade",,A03XX#F04.A00JF$F04.A043A$F22.A07SS$F26.A07XE$F28.A0BA1,,GB,en,17.1,Jorn Mineur,draft,,"Proposes changing 'subji' to 'sabji' as per Wikipedia."
