@@ -18,7 +18,7 @@ source,source_food_id,description,published_code,proposed_code,free_text,country
 "Public Health England, CoFID 2021",16-095,"Mullet, Grey, flesh only, raw",,A02AD#F20.A07QM$F20.A07QR,,GB,en,17.1,Jorn Mineur,draft,,"In Europe, the word ""mullet"" is usually qualified, the ""grey mullets"" being Mugilidae and the ""red mullets"" or ""surmullets"" being Mullidae, notably members of the genus Mullus."
 "Public Health England, CoFID 2021",19-058,"Pie, game, homemade",,A0CEN#F04.A0EYH$F22.A07SS$F26.A07XE,,GB,en,17.1,Jorn Mineur,draft,,
 "Public Health England, CoFID 2021",18-607,"Pork, mince, stewed",,A04AC#F28.A07GM,,GB,en,17.1,Jorn Mineur,draft,,
-"Public Health England, CoFID 2021",13-485,"Potato chips, fried in commercial oil, from takeaway fish and chip shops",,A0BYV#F22.A07SK,,GB,en,17.1,Jorn Mineur,draft,,"French fries from cut potato: chip-shop chips are cut potato, and the term already implies potatoes, cutting and frying."
+"Public Health England, CoFID 2021",13-485,"Potato chips, fried in commercial oil, from takeaway fish and chip shops",,A0BYV#F22.A07SK$F28.A07GV,,GB,en,17.1,Jorn Mineur,draft,,"French fries from cut potato: chip-shop chips are cut potato, and the term already implies potatoes, cutting and frying. Deep frying narrows the implied frying: fish and chip shops fry chips by full immersion in oil. Ready-to-eat is not coded: restaurant or fast food prepared already entails it."
 "Public Health England, CoFID 2021",13-038,"Potato croquettes, fried in blended oil",,A011S#F28.A07GR,,GB,en,17.1,Jorn Mineur,draft,,
 "Public Health England, CoFID 2021",14-289,Prune juice,,A03AE,,GB,en,17.1,Jorn Mineur,draft,,
 "Public Health England, CoFID 2021",14-375,"Raspberries, raw",,A01EP,,GB,en,17.1,Jorn Mineur,draft,,
