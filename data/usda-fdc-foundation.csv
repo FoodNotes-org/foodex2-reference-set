@@ -1,5 +1,5 @@
 source,source_food_id,description,published_code,proposed_code,free_text,country,language,mtx_release,coded_by,status,reviewed_by,notes
-USDA FoodData Central: Foundation Foods,2262074,"Almond butter, creamy",,A0F0M#F26.A07XE$F27.A014D,qualitative-info=Creamy texture,US,en,17.1,Jorn Mineur,draft,,
+USDA FoodData Central: Foundation Foods,2262074,"Almond butter, creamy",,A0F0M#F27.A014D,qualitative-info=Creamy texture,US,en,17.1,Jorn Mineur,draft,,"Other is not added: Almonds names the source commodity exactly, so the facets fully specify the food (EFSA 2020 maintenance report)."
 USDA FoodData Central: Foundation Foods,1750342,"Apples, granny smith, with skin, raw",,A01DJ#F20.A07QQ,source=Granny Smith apple,US,en,17.1,Jorn Mineur,draft,,
 USDA FoodData Central: Foundation Foods,2346414,"Applesauce, unsweetened, with added vitamin C",,A01QJ#F09.A0EXN$F10.A077K$F27.A01DJ,,US,en,17.1,Jorn Mineur,draft,,
 USDA FoodData Central: Foundation Foods,2710815,"Apricot, with skin, raw",,A01GF#F20.A07QQ,,US,en,17.1,Jorn Mineur,draft,,
@@ -21,11 +21,11 @@ USDA FoodData Central: Foundation Foods,790577,"Onions, red, raw",,A00HC#F10.A0F
 USDA FoodData Central: Foundation Foods,2003597,"Orange juice, no pulp, not fortified, not from concentrate, refrigerated",,A03AM#F10.A0F6D$F28.A07KP,qualitative-info=Pulp-free; process=Not from concentrate,US,en,17.1,Jorn Mineur,draft,,
 USDA FoodData Central: Foundation Foods,2758989,"Peanut butter, Creamy",,A01BN,qualitative-info=Creamy texture,US,en,17.1,Jorn Mineur,draft,,
 USDA FoodData Central: Foundation Foods,2779259,"Quinoa flour, pre-gelatinized, organic",,A04KT#F21.A07SE$F27.A000R$F28.A07LK,,US,en,17.1,Jorn Mineur,draft,,
-USDA FoodData Central: Foundation Foods,2758987,"Salad dressing, Italian dressing, commercial, regular",,A045K#F10.A077A$F22.A07SH$F26.A07XE,note=Italian dressing,US,en,17.1,Jorn Mineur,draft,,"There is no Italian dressing term. Garlic, oil, vinegar and herbs are not in the description, so the style stays as free text."
+USDA FoodData Central: Foundation Foods,2758987,"Salad dressing, Italian dressing, commercial, regular",,A045K#F10.A077A$F22.A07SH,note=Italian dressing,US,en,17.1,Jorn Mineur,draft,,"There is no Italian dressing term. Garlic, oil, vinegar and herbs are not in the description, so the style stays as free text. Other is not added: it marks only an ingredient, source commodity or source the facets cannot specify, not a style (EFSA 2020 maintenance report)."
 USDA FoodData Central: Foundation Foods,746781,"Sausage, pork, chorizo, link or ground, cooked, pan-fried",,A024G#F04.A00GZ$F04.A019L$F04.A01RG$F28.A07GS,note=Chorizo,US,en,17.1,Jorn Mineur,draft,,"Read as a US chorizo: fresh, not cured, and cooked before eating, unlike cured Spanish chorizo. Link or ground spans two children of Fresh raw sausages, in casing and bulk, so the base stays at that level, without Other."
 USDA FoodData Central: Foundation Foods,2747670,"Snow crab, legs only, frozen",,A0FCQ#F01.A0A5D$F28.A07KQ,part-consumed-analysed=Crab legs,US,en,17.1,Jorn Mineur,draft,,
 USDA FoodData Central: Foundation Foods,2710841,"Sorghum grain, white, pearled, unenriched, dry, raw",,A001L#F10.A0F2R$F10.A0F6D$F26.A07XE$F28.A0BZV,process=Dry,US,en,17.1,Jorn Mineur,draft,,
-USDA FoodData Central: Foundation Foods,2779251,"Sorghum, puffed",,A04LL#F26.A07XE$F27.A001L,,US,en,17.1,Jorn Mineur,draft,,
+USDA FoodData Central: Foundation Foods,2779251,"Sorghum, puffed",,A04LL#F27.A001L,,US,en,17.1,Jorn Mineur,draft,,"Other is not added: Sorghum grain names the source commodity exactly, so the facets fully specify the food (EFSA 2020 maintenance report)."
 USDA FoodData Central: Foundation Foods,2747672,"Swordfish, frozen, wild caught",,A07Y0#F21.A07RY$F28.A07KQ,,US,en,17.1,Jorn Mineur,draft,,
 USDA FoodData Central: Foundation Foods,2747673,"Tuna, ahi or yellowfin, frozen, wild caught",,A02EG#F21.A07RY$F28.A07KQ,,US,en,17.1,Jorn Mineur,draft,,
 USDA FoodData Central: Foundation Foods,2710821,"Wild rice, dry, raw",,A001J,process=Dry,US,en,17.1,Jorn Mineur,draft,,

@@ -46,7 +46,7 @@ source,source_food_id,description,published_code,proposed_code,free_text,country
 "NEVO online, version 2025/9.0, RIVM, Bilthoven",2218,Sportdrank Extran Energy,A03GB#F09.A0EXN,,,NL,nl,17.1,,confirmed,Jorn Mineur,
 "NEVO online, version 2025/9.0, RIVM, Bilthoven",1147,Spruitjes diepvries gekookt,A00FV#F28.A07GL$F28.A07KQ,,,NL,nl,17.1,,confirmed,Jorn Mineur,
 "NEVO online, version 2025/9.0, RIVM, Bilthoven",55,Spruitjes gekookt,A00FV#F28.A07GL,,,NL,nl,17.1,,confirmed,Jorn Mineur,
-"NEVO online, version 2025/9.0, RIVM, Bilthoven",3360,Stroop appel- peren,A033Z#F26.A07XE$F27.A01DJ$F27.A01DP,,,NL,nl,17.1,,confirmed,Jorn Mineur,
+"NEVO online, version 2025/9.0, RIVM, Bilthoven",3360,Stroop appel- peren,A033Z#F26.A07XE$F27.A01DJ$F27.A01DP,A033Z#F27.A01DJ$F27.A01DP,,NL,nl,17.1,Jorn Mineur,draft,,"Other is dropped: Apples and Pears name the source commodities exactly, so the facets fully specify the food. The 2020 maintenance report adds Other only when they cannot."
 "NEVO online, version 2025/9.0, RIVM, Bilthoven",3252,Surimi,A02KE,,,NL,nl,17.1,,confirmed,Jorn Mineur,
 "NEVO online, version 2025/9.0, RIVM, Bilthoven",2737,Ui sla- rauw,A00HH,,,NL,nl,17.1,,confirmed,Jorn Mineur,
 "NEVO online, version 2025/9.0, RIVM, Bilthoven",1420,Varkenshamlappen rauw,A01RG,A01RG,,NL,nl,17.1,Jorn Mineur,draft,,"Hamlappen is a cut. The catalogue describes cuts with part-nature descriptors, not with Other; the only child of Pig fresh meat is minced meat, a processed form."
@@ -56,6 +56,6 @@ source,source_food_id,description,published_code,proposed_code,free_text,country
 "NEVO online, version 2025/9.0, RIVM, Bilthoven",421,Whisky,A03PF,,,NL,nl,17.1,,confirmed,Jorn Mineur,
 "NEVO online, version 2025/9.0, RIVM, Bilthoven",568,Worst bloed-,A025S,,,NL,nl,17.1,,confirmed,Jorn Mineur,
 "NEVO online, version 2025/9.0, RIVM, Bilthoven",3282,Yoghurt halfvolle lactosevrij,A02NG#F10.A077G$F10.A0CQD,,,NL,nl,17.1,,confirmed,Jorn Mineur,
-"NEVO online, version 2025/9.0, RIVM, Bilthoven",1898,Zeewier agar agar gedroogd,A00ZQ#F26.A07XE$F27.A00VE,A047Y#F04.A00VE,,NL,nl,17.1,Jorn Mineur,draft,,"Agar agar is a gelling agent extracted from red algae, not a dried vegetable, so the base is Gelling agent with Red algae as the ingredient."
+"NEVO online, version 2025/9.0, RIVM, Bilthoven",1898,Zeewier agar agar gedroogd,A00ZQ#F26.A07XE$F27.A00VE,A047Y#F26.A07XE$F27.A00VE$F28.A07KG,,NL,nl,17.1,Jorn Mineur,draft,,"Agar agar is a gelling agent extracted from red algae, not a dried vegetable, so the base is Gelling agent. Gelling agent is a derivative, so the red algae it is extracted from is a source commodity, not an ingredient. Other is added: agar has no term, and Gelling agent from red algae also covers carrageenan, so the facets cannot fully specify the food (EFSA 2020 maintenance report). Drying is stated and not implied by the base, so it is coded."
 "NEVO online, version 2025/9.0, RIVM, Bilthoven",590,Zemelen tarwe-,A004P,,,NL,nl,17.1,,confirmed,Jorn Mineur,
 "NEVO online, version 2025/9.0, RIVM, Bilthoven",2370,Zoutje luchtig maisbasis,A00FE,,,NL,nl,17.1,,confirmed,Jorn Mineur,
